@@ -115,7 +115,6 @@ AutoTest.Net/
 
 # Web workbench (sass)
 .sass-cache/
-*.csproj
 # Installshield output folder
 [Ee]xpress/
 
